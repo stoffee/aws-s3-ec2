@@ -5,6 +5,6 @@ module "ec2_stoffee" {
   version = "1.0.6"
 
   s3_bucket_acl = "private"
-  s3_bucket_name = "stoaf"
+  s3_bucket_name = "stoffee"
   ssh_key_name = "cdunlap"
 }
