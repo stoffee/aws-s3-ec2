@@ -6,5 +6,5 @@ module "ec2_stoffee" {
 
   s3_bucket_acl = "private"
   s3_bucket_name = "stoffee"
-  ssh_key_name = "cdunlap"
+  ssh_key_name = "cdunlap-sandbox-aws"
 }
